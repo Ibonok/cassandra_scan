@@ -1,7 +1,7 @@
 # cassandra_scan
 > Dump Apache cassandra database
 
-Define a Apache cassandra host and list all keyspaces, tables and data.    
+Define an Apache cassandra host and list all keyspaces, tables and data.    
 # Installation
 
 ```
